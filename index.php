@@ -20,30 +20,39 @@
 
       <?php require ("./include/header.php")?> 
      <!-- <h4 class="text-center mt-3">We are Working With Them </h4> -->
-      <div style="margin-bottom: -30px;" class="d-flex justify-content-center mt-3">
+      <div class="partner">
 
-     
+          <div class="partner__logos">
+            <img src="./assets/images/logo/partners/logo-3.png" alt="" />
+          </div>
 
+          <div class="partner__logos">
+            <img  src="./assets/images/logo/partners/logo-2.png" alt="" />
+          </div>
 
-          <img style="max-height:100px;" src="./assets/images/logo/partners/logo-3.png" alt="" />
+          <div class="partner__logos">
+            <img src="./assets/images/logo/partners/logo.png" alt="" />
+          </div>
 
-          <img style="max-height:100px;" src="./assets/images/logo/partners/logo-2.png" alt="" />
+          <div class="partner__logos">
+            <img src="./assets/images/logo/partners/logo-1.png" alt="" />
+          </div>
 
-          <img style="max-height:80px; margin-top:20px" src="./assets/images/logo/partners/logo.png" alt="" />
+          <div class="partner__logos">
+            <img src="./assets/images/logo/partners/youtube-logo.png" alt="" /> 
+          </div>
 
+          <div class="partner__logos">
+            <img src="./assets/images/logo/partners/hdlogo-sports.png" alt="" />
+          </div>
 
-          <img style="max-height:100px;" src="./assets/images/logo/partners/logo-1.png" alt="" /> 
-
-          <img style="max-height:80px; margin-top:10px" src="./assets/images/logo/partners/youtube-logo.png" alt="" /> 
-
-
-         
-           <img style="max-height:100px;" src="./assets/images/logo/partners/hdlogo-sports.png" alt="" />
-
-            <img style="max-height:80px; margin-top:10px" src="./assets/images/logo/partners/fiverr-logo.png" alt=""/> 
-         
-
-           <img style="max-height:80px; margin-top:10px" src="./assets/images/logo/partners/upwor.png" alt="" />
+          <div class="partner__logos">
+            <img src="./assets/images/logo/partners/fiverr-logo.png" alt=""/>
+          </div>
+          
+          <div class="partner__logos">
+            <img src="./assets/images/logo/partners/upwor.png" alt="" />
+          </div>
 
       </div>
       <div class="main-content">
